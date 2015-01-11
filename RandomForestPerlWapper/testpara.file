@@ -1,0 +1,10 @@
+oldRFcodeFile = RF4_cmdLearnPre_realNoMiss.f
+inputTrainFile = ./temp/temp.train.fillrf
+inputTestFile = ./temp/temp.test.fillrf
+outRFcodeFile = ./temp/temp.curRF.f
+outRFexeFile = ./temp/temp.curRF.exe
+outRFtrees = ./temp/temp.curRF.trees
+outRFimpFast = ./temp/temp.curRF.imp
+mTry = 10
+numTrees = 100
+posCostFactor = 10

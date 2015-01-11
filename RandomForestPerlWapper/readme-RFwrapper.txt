@@ -1,20 +1,8 @@
-# RF4Bioinformatics
-Random Forest Wrapper Code for book chapter "random forest for Bioinformatics" 
-
-<BR>
-
 If you use this code, please cite : 
 
 - Major paper: 
 
-@incollection{qi2012random,
-  title={Random forest for bioinformatics},
-  author={Qi, Yanjun},
-  booktitle={Ensemble Machine Learning},
-  pages={307--323},
-  year={2012},
-  publisher={Springer}
-}
+
 
 - Related Papers,  
 
@@ -23,7 +11,7 @@ Y. Qi, HK. Dhiman, et al, Z. Bar-Joseph, J. Klein-Seetharaman,(2009)
 PROTEOMICS 2009, 9, 5243-5255
 
 
-<BR>
+
 
 ---------------------------------------------
 
