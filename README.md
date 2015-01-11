@@ -16,6 +16,10 @@ If you use this code, please cite :
   publisher={Springer}
 }
 
+<BR>
+
+PDF @ http://www.cs.cmu.edu/%7Eqyj/papersA08/11-rfbook.pdf
+
 - Related Papers,  
 
 Y. Qi, HK. Dhiman, et al, Z. Bar-Joseph, J. Klein-Seetharaman,(2009) 
